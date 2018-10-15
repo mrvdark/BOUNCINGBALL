@@ -1,6 +1,6 @@
 # BOUNCINGBALL
 - 1.Tạo khung hình cho game.
-- 2.tạo bricks 
+- 2.tạo hàng gạch
 - 3.tạo ball
 - 4.tạo paddle
 - 5.tạo số mạng (lives)
